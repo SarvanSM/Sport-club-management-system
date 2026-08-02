@@ -72,13 +72,6 @@ using phpMyAdmin.
 
 ```
 http://localhost/Sport-club-management-system/
-```
-
----
-
-## 📷 Screenshots
-
-(Add screenshots of the project here.)
 
 ---
 
